@@ -12,5 +12,5 @@ I use [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads)
   ```bash
   brew install tmux
   ```	
-- For alaccrity go on [their site](https://alacritty.org/)
+- For alacritty go on [their site](https://alacritty.org/)
 
